@@ -53,7 +53,7 @@ I created a dynamic date table that automatically updates to fit new data and to
 5- Unit sales by Product (%)<br>
 6- Gross Product by Product (%)<br>
 
-### Report
+## Report
 #### Report #1: summarize sales by customer and customer type across quarters
 <img src='report1.PNG'>
 
