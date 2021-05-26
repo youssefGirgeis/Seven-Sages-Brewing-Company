@@ -58,4 +58,4 @@ The data model consits of one fact table and four dimension tables
 <img src='report1.PNG'>
 
 #### Report #2:  summarize the percentages of gross profit and unit sales by product.
-<img src=''report2.PNG>
+<img src='report2.PNG'>
