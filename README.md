@@ -46,12 +46,12 @@ I created a dynamic date table that automatically updates to fit new data and to
 <img src='ERD.PNG' />
 
 ## Measures
-1- Total Sales
-2- Cost of Sales
-3- Gross Profit Margin
-4- Sales in CAD
-5- Unit sales by Product (%)
-6- Gross Product by Product (%)
+1- Total Sales<br>
+2- Cost of Sales<br>
+3- Gross Profit Margin<br>
+4- Sales in CAD<br>
+5- Unit sales by Product (%)<br>
+6- Gross Product by Product (%)<br>
 
 ### Report
 #### Report #1: summarize sales by customer and customer type across quarters
