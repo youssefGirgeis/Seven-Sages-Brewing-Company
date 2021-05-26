@@ -43,7 +43,7 @@ The data model consits of one fact table and four dimension tables
 <b>Fact table</b>: sales
 <b>Dimension tables</b>: Products, Customers, Date, USD-CAD Exchange Rates
 
-<img src='ERD.png'>
+<img src='ERD.PNG' />
 
 ## Measures
 1- Total Sales
