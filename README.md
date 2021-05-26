@@ -39,8 +39,8 @@ I created a dynamic date table that automatically updates to fit new data and to
 </ul>
 
 ## Data Model
-The data model consits of one fact table and four dimension tables
-<b>Fact table</b>: sales
+<p>The data model consits of one fact table and four dimension tables</p>
+<b>Fact table</b>: sales<br>
 <b>Dimension tables</b>: Products, Customers, Date, USD-CAD Exchange Rates
 
 <img src='ERD.PNG' />
